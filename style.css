@@ -1,0 +1,12 @@
+ul {
+    font-size: larger;
+    text-align: center;
+    color: brown;
+}
+ol {
+    background-color: cornflowerblue;
+}
+img {
+  height: 400px;
+    width: auto;
+}
